@@ -89,7 +89,6 @@ I worked in computer-related jobs including data entry, layout and design, and v
 ## International University in Germany
 
 - Private University, now closed
-- http://i-u.de/
 - https://web.archive.org/web/20220701043725/http://i-u.de/
 - Studied International Communications Management for two years until school closed
 - No degree received
