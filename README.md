@@ -29,7 +29,7 @@
 ## Cybersecurity Achievements
 
 - I am a contributor to the popular Seclists cybersecurity repository. I created a list of target files for local file inclusion (LFI) checks, and this list automatically updates itself from debian packages using bash scripts and github actions integrations. [SecLists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt at master · danielmiessler/SecLists · GitHub](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt)
-- Pro hacker rank on HackTheBox.eu. Solved "insane" level reverse engineering and binary exploitation challenges. Completed binary exploitation track. Received badges for echoland and vmcrack challenges
+- Pro hacker rank on HackTheBox. Solved "insane" level reverse engineering and binary exploitation challenges. Completed binary exploitation track. Received badges for echoland and vmcrack challenges. https://app.hackthebox.com/profile/459321
 - Cyber Apocalypse CTF 2021: placed 95 out of 4512 teams - solved all reversing and binary exploitation challenges including reverse engineering simulated ransomware to recover files
 - Reverse engineering Windows challenge binaries on crackmes.one
 - Reverse engineered BattlEye anti-cheat protection system and created a bypass
