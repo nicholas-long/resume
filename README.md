@@ -64,17 +64,17 @@ I worked in computer-related jobs including data entry, layout and design, and v
 
 # Educational Achievements
 
-Dean’s list at UW-La Crosse Fall 2010, Spring 2011, Spring 2012, Spring 2013
-Awarded National Science Foundation S-STEM Scholarship for 2011/2012
-Computer Science Java Advanced Placement Test maximum score of 5
-ACT score of 30
-National Merit Scholarship Commendation 2004
-Successfully designed and implemented my own software and websites
+- Dean’s list at UW-La Crosse Fall 2010, Spring 2011, Spring 2012, Spring 2013
+- Awarded National Science Foundation S-STEM Scholarship for 2011/2012
+- Computer Science Java Advanced Placement Test maximum score of 5
+- ACT score of 30
+- National Merit Scholarship Commendation 2004
+- Successfully designed and implemented my own software and websites
 
 ## Foreign Languages
 
-German (fluent from university minor and living abroad for two years)
-Spanish (reading/writing, basic conversational skills)
+- German (fluent from university minor and living abroad for two years)
+- Spanish (reading/writing, basic conversational skills)
 
 # Education
 
