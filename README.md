@@ -17,7 +17,7 @@
 - Web Programming back end: C# MVC (work experience), Node.js, PHP
 - Web Programming front end: Typescript, Javascript, AngularJS, jQuery, JSON, Bootstrap
 
-## Programming and Reverse Engineering Skill Set
+## Programming and Cybersecurity / Reverse Engineering Skill Set
 
 - 4 years of experience with web application development using the Microsoft stack.
 - Agile development: test development, code reviews, rapid prototyping, scrum meetings.
@@ -80,24 +80,26 @@ Spanish (reading/writing, basic conversational skills)
 
 ## University of Wisconsin – La Crosse
 
-Graduated December 2014 with Honors
-Dean’s list (College of Science & Health)
-Computer Science Major with a German Minor
-GPA: 3.74
-Courses completed involving: Artificial Intelligence, Robotics, Software engineering, MVC web development, German Language
+- Graduated December 2014 with Honors
+- Dean’s list (College of Science & Health)
+- Computer Science Major with a German Minor
+- GPA: 3.74
+- Courses completed involving: Artificial Intelligence, Robotics, Software engineering, MVC web development, German Language
 
 ## International University in Germany
 
-Private University, now closed, information available at http://i-u.de/
-Studied International Communications Management for two years until school closed
-No degree received
-Courses completed involving: Marketing and Advertising, Public Relations, MS Access, SQL and relational database design, Business Process Management, German Language
+- Private University, now closed
+- http://i-u.de/
+- https://web.archive.org/web/20220701043725/http://i-u.de/
+- Studied International Communications Management for two years until school closed
+- No degree received
+- Courses completed involving: Marketing and Advertising, Public Relations, MS Access, SQL and relational database design, Business - Process Management, German Language
 
 ## Onalaska High School 2001-2005
 
-Diploma earned May 2005
-GPA: 3.4
-Honor Level Classes
-4 Years of Computer Science classes
-Completed 5th year of Spanish
-Volunteered in IT department (installing, configuring, and troubleshooting new hardware and software))
+- Diploma earned May 2005
+- GPA: 3.4
+- Honor Level Classes
+- 4 Years of Computer Science classes
+- Completed 5th year of Spanish
+- Volunteered in IT department (installing, configuring, and troubleshooting new hardware and software))
