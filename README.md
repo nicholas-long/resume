@@ -19,21 +19,22 @@
 
 ## Programming and Cybersecurity / Reverse Engineering Skill Set
 
-- 4 years of experience with web application development using the Microsoft stack.
+- 5 years of experience using the Microsoft stack and 4 with web application development.
 - Agile development: test development, code reviews, rapid prototyping, scrum meetings.
 - Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab, BitBucket, and Github
 - Ongoing cybersecurity education in offensive penetration testing skill sets with a focus on web application security, Linux, and Windows Active Directory security.
-- Debugging and reverse engineering x86 and x64 binaries for Windows and Linux. I have extensive hobbyist experience reverse engineering with IDA Pro and Ghidra: bypassing anti-debugging Windows API calls, reverse engineering virtual-machine-based obfuscated code, unpackers, and dynamic obfuscation, and I am able to bypass ASLR to develop binary exploitation code using return-oriented programming (ROP). I am also capable of finding bugs leading to binary exploitation such as stack overflows, heap corruption, and insecure printf calls.
-- Developed a poker bot using neural networks and evolutionary algorithms.
+- Debugging and reverse engineering x86 and x64 binaries for Windows and Linux. I have extensive hobbyist experience with crackmes.one and HackTheBox challenges involving reverse engineering with IDA Pro and Ghidra: bypassing anti-debugging Windows API calls, reverse engineering virtual-machine-based obfuscated code, unpackers, and dynamic obfuscation, and I am able to bypass ASLR to develop binary exploitation code using return-oriented programming (ROP). I am also capable of finding bugs leading to binary exploitation such as stack overflows, heap corruption, and insecure printf calls.
 
-## Cybersecurity Achievements
+## Achievements
 
-- I am a contributor to the popular Seclists cybersecurity repository. I created a list of target files for local file inclusion (LFI) checks, and this list automatically updates itself from debian packages using bash scripts and github actions integrations. [SecLists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt at master · danielmiessler/SecLists · GitHub](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt)
-- Pro hacker rank on HackTheBox. Solved "insane" level reverse engineering and binary exploitation challenges. Completed binary exploitation track. Received badges for echoland and vmcrack challenges. https://app.hackthebox.com/profile/459321
 - eJPT Certified Penetration Tester
+- Pro hacker rank on HackTheBox. Solved "insane" level reverse engineering and binary exploitation challenges. Completed binary exploitation track. Received badges for echoland and vmcrack challenges. https://app.hackthebox.com/profile/459321
+- I am a contributor to the popular Seclists cybersecurity repository. I created a list of target files for local file inclusion (LFI) checks, and this list automatically updates itself from debian packages using bash scripts and github actions integrations. [SecLists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt at master · danielmiessler/SecLists · GitHub](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt)
 - Cyber Apocalypse CTF 2021: placed 95 out of 4512 teams - solved all reversing and binary exploitation challenges including reverse engineering simulated ransomware to recover files
-- Reverse engineering Windows challenge binaries on crackmes.one
+- Created a passive and active wifi attack script with awk and aircap-ng
+- Developed a poker bot using neural networks and evolutionary algorithms.
 - Reverse engineered BattlEye anti-cheat protection system and created a bypass
+- Created an index of file hashes for a search engine by slowly retrieving a list of all of the repositories from GitHub's API and scanning the popular ones
 
 # Work Experience
 
