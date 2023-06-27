@@ -37,6 +37,11 @@
 
 # Work Experience
 
+## January 2023 - Present
+#### Owner - Long Custom 3D Fabrication LLC
+I run a side business where I create and sell custom products on Amazon, eBay, and local B2B sales, all using 3D printers. I am able to make my own 3D models with Blender or CAD modeling software and use slicer software to print them.
+I make items such as gardening products and generic replacement machine parts.
+
 ## October 2018 - Present
 #### Stay at home dad
 I was fortunate enough to accumulate enough savings in my 20s that I was able to take time off from the workforce to help raise my two amazing children. I have had time to further my cybersecurity and devops education.
