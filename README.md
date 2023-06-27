@@ -28,7 +28,7 @@
 
 ## Achievements
 
-- eJPT Certified Penetration Tester
+- eJPT v1.0 Certified Penetration Tester (certification ID 2798399) https://elearnsecurity.com/verify-certificate/
 - Pro hacker rank on HackTheBox. Solved "insane" level reverse engineering and binary exploitation challenges. Completed binary exploitation track. Received badges for echoland and vmcrack challenges. https://app.hackthebox.com/profile/459321
 - I am a contributor to the popular Seclists cybersecurity repository. I created a list of target files for local file inclusion (LFI) checks, and this list automatically updates itself from debian packages using bash scripts and github actions integrations. [SecLists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt at master · danielmiessler/SecLists · GitHub](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt)
 - Cyber Apocalypse CTF 2021: placed 95 out of 4512 teams - solved all reversing and binary exploitation challenges including reverse engineering simulated ransomware to recover files
