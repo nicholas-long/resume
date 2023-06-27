@@ -22,6 +22,7 @@
 - 5 years of experience using the Microsoft stack and 4 with web application development.
 - Agile development: test development, code reviews, rapid prototyping, scrum meetings.
 - Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab, BitBucket, and Github
+- Hobbyist experience with Docker, docker-compose, and kubernetes: building swarms of containers for personal projects
 - Ongoing cybersecurity education in offensive penetration testing skill sets with a focus on web application security, Linux, and Windows Active Directory security.
 - Debugging and reverse engineering x86 and x64 binaries for Windows and Linux. I have extensive hobbyist experience with crackmes.one and HackTheBox challenges involving reverse engineering with IDA Pro and Ghidra: bypassing anti-debugging Windows API calls, reverse engineering virtual-machine-based obfuscated code, unpackers, and dynamic obfuscation, and I am able to bypass ASLR to develop binary exploitation code using return-oriented programming (ROP). I am also capable of finding bugs leading to binary exploitation such as stack overflows, heap corruption, and insecure printf calls.
 
