@@ -70,15 +70,6 @@ Responsible for preparing content, airing content, and FCC record-keeping requir
 
 I worked in computer-related jobs including data entry, layout and design, and video editing.
 
-# Educational Achievements
-
-- Dean’s list at UW-La Crosse Fall 2010, Spring 2011, Spring 2012, Spring 2013
-- Awarded National Science Foundation S-STEM Scholarship for 2011/2012
-- Computer Science Java Advanced Placement Test maximum score of 5
-- ACT score of 30
-- National Merit Scholarship Commendation 2004
-- Successfully designed and implemented my own software and websites
-
 ## Foreign Languages
 
 - German (fluent from university minor and living abroad for two years)
@@ -88,11 +79,13 @@ I worked in computer-related jobs including data entry, layout and design, and v
 
 ## University of Wisconsin – La Crosse
 
+- https://www.uwlax.edu/
 - Graduated December 2014 with Honors
-- Dean’s list (College of Science & Health)
 - Computer Science Major with a German Minor
+- Dean’s list (College of Science & Health) Fall 2010, Spring 2011, Spring 2012, Spring 2013
 - GPA: 3.74
 - Courses completed involving: Artificial Intelligence, Robotics, Software engineering, MVC web development, German Language
+- Awarded National Science Foundation S-STEM Scholarship for 2011/2012
 
 ## International University in Germany
 
@@ -110,3 +103,6 @@ I worked in computer-related jobs including data entry, layout and design, and v
 - 4 Years of Computer Science classes
 - Completed 5th year of Spanish
 - Volunteered in IT department (installing, configuring, and troubleshooting new hardware and software))
+- Computer Science Java Advanced Placement Test maximum score of 5
+- ACT score of 30
+- National Merit Scholarship Commendation 2004
