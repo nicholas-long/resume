@@ -6,16 +6,15 @@
 
 ## Programming Languages
 
-- Bash Scripting
-- Awk Scripting
-- Dockerfile
-- Python
-- Typescript and Javascript
-- C and C++
-- Scala and functional programming
-- Java
-- Web Programming back end: C# MVC (work experience), Node.js, PHP
-- Web Programming front end: Typescript, Javascript, AngularJS, jQuery, JSON, Bootstrap
+- C and C++ - 5 years
+- C# - 5 years
+- Web Programming back end: C# MVC, Node.js, PHP - 4 years
+- Web Programming front end: Typescript, Javascript, AngularJS, jQuery, JSON, Bootstrap - 2 years
+- Bash and AWK Scripting - 2 years
+- Python - 2 years
+- Dockerfile - 1 year
+- Scala and functional programming - 1 year
+- Java - 1 year
 
 ## Programming and Cybersecurity / Reverse Engineering Skill Set
 
