@@ -1,5 +1,4 @@
 # Nicholas Long
-- https://nicklong.xyz
 - https://github.com/nicholas-long
 
 # Specialized Skills
