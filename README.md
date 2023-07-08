@@ -37,30 +37,27 @@
 
 # Work Experience
 
-## October 2018 - Present
-### Stay at home dad and Owner of Long Custom 3D Fabrication LLC
+## Stay at home dad and Owner of Long Custom 3D Fabrication LLC
+#### October 2018 - Present
 I was fortunate enough to be able to take time off from the workforce to help raise my two amazing children. I have had time to further my cybersecurity education with TryHackMe, HackTheBox, and Offensive Security Playgrounds. I run a side business where I create and sell custom products on Amazon, eBay, and local B2B sales, all using 3D printers. I am able to make my own 3D models with Blender or CAD modeling software and use slicer software to print them.
 I make items such as gardening products and generic replacement machine parts.
 
-## July 2014 - April 2018
-### Application System Analyst - Trane, La Crosse, WI
+## Application System Analyst - Trane, La Crosse, WI
+#### July 2014 - April 2018
 My duties included development and providing support, bug fixes, and workarounds for customers.  During my time on the team, I helped with the transition from a domain specific C++ solution to a .NET MVC web application.  I was involved in every layer of the application’s stack and got experience with numerous programming languages, libraries, and paradigms.  Two times, my manager sent me to “That Conference”, a Microsoft-specific development conference.
 
-## July 2013 - June 2014
-
-### Software Development Intern - Trane, La Crosse, WI
+## Software Development Intern - Trane, La Crosse, WI
+#### July 2013 - June 2014
 
 My duties consisted of development, support issues, maintenance, and assisting with data fixes.  I created specialized software to automate several database related tasks, and I worked on projects to improve or replace several in-house software solutions.  This internship had a strong focus on .NET development, both Visual Basic and C#, and writing complex SQL queries.
 
-## October 2010 – September 2011
-
-### Part-time Master Control Operator - Fox 25/48 (WLAX/WEUX), La Crosse, WI
+## Part-time Master Control Operator - Fox 25/48 (WLAX/WEUX), La Crosse, WI
+#### October 2010 – September 2011
 
 Responsible for preparing content, airing content, and FCC record-keeping requirements.
 
-## January 2006 – June 2007
-
-### Part-time Temporary Employment - Kelly Services, La Crosse, WI
+## Part-time Temporary Employment - Kelly Services, La Crosse, WI
+#### January 2006 – June 2007
 
 I worked in computer-related jobs including data entry, layout and design, and video editing.
 
