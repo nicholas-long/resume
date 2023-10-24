@@ -5,7 +5,7 @@
 <span class="info">https://github.com/nicholas-long</span>
 
 
-## Programming Languages
+## Experience and Programming Languages
 
 - C and C++ - 5 years
 - C# - 5 years
@@ -16,15 +16,12 @@
 - Dockerfile - 1 year
 - Scala and functional programming - 1 year
 - Java - 1 year
-
-## Programming and Cybersecurity / Reverse Engineering Skill Set
-
 - 5 years of experience using the Microsoft stack and 4 with web application development.
+- Experience with Docker and docker-compose, getting dependencies to build in Docker. Building Dockerfiles for open source projects to keep legacy code running.
 - Agile development: test development, code reviews, rapid prototyping, scrum meetings.
-- Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab, BitBucket, and Github
-- Hobbyist experience with Docker, docker-compose, and kubernetes: building swarms of containers for personal projects
-- Ongoing cybersecurity education in offensive penetration testing skill sets with a focus on web application security, Linux, and Windows Active Directory security.
-- Debugging and reverse engineering x86 and x64 binaries for Windows and Linux. I have extensive hobbyist experience with crackmes.one and HackTheBox challenges involving reverse engineering with IDA Pro and Ghidra: bypassing anti-debugging Windows API calls, reverse engineering virtual-machine-based obfuscated code, unpackers, and dynamic obfuscation, and I am able to bypass ASLR to develop binary exploitation code using return-oriented programming (ROP). I am also capable of finding bugs leading to binary exploitation such as stack overflows, heap corruption, and insecure printf calls.
+- Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab and BitBucket, and I use Github extensively.
+- Debugging and reverse engineering compiled programs in order to create exploits. I have extensive hobbyist experience with crackmes.one and HackTheBox challenges involving reverse engineering with IDA Pro and Ghidra. I am able to do return-oriented programming (ROP) and bypassing anti-debugging Windows API calls. I think this debugging experience can help debugging problems in compiled code.
+- Ongoing cybersecurity education in offensive penetration testing skill set
 
 ## Achievements
 
@@ -32,16 +29,16 @@
 - Pro hacker rank on HackTheBox. Solved "insane" level reverse engineering and binary exploitation challenges. Completed binary exploitation track. Received badges for echoland and vmcrack challenges. https://app.hackthebox.com/profile/459321
 - I am a contributor to the popular Seclists cybersecurity repository. I created a list of target files for local file inclusion (LFI) checks, and this list automatically updates itself from debian packages using bash scripts and github actions integrations. [SecLists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt at master · danielmiessler/SecLists · GitHub](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt)
 - Cyber Apocalypse CTF 2021: placed 95 out of 4512 teams - solved all reversing and binary exploitation challenges including reverse engineering simulated ransomware to recover files
+- Reverse engineered BattlEye anti-cheat game protection
 - Created a passive and active wifi attack script with awk and aircap-ng
 - Developed a poker bot using neural networks and evolutionary algorithms.
-- Reverse engineered BattlEye anti-cheat protection system and created a bypass
-- Created an index of file hashes for a search engine by slowly retrieving a list of all of the repositories from GitHub's API and scanning the popular ones
+- Retrieved a list of all git repositories on Github from the rate-limited API
+- Created a search engine to look up billions of files by MD5 hash
 
 ## Work Experience
 
-### Stay at home dad and Owner of Long Custom 3D Fabrication LLC <time> October 2018 - Present </time>
-I was fortunate enough to be able to take time off from the workforce to help raise my two amazing children. I have had time to further my cybersecurity education with TryHackMe, HackTheBox, and Offensive Security Playgrounds. I run a side business where I create and sell custom products on Amazon, eBay, and local B2B sales, all using 3D printers. I am able to make my own 3D models with Blender or CAD modeling software and use slicer software to print them.
-I make items such as gardening products and generic replacement machine parts.
+### Stay at home dad <time> October 2018 - Present </time>
+I was fortunate enough to be able to take time off from the workforce to help raise my two amazing children. I have had time to further my cybersecurity education with TryHackMe, HackTheBox, and Offensive Security Playgrounds.
 
 ### Application System Analyst - Trane, La Crosse, WI <time> July 2014 - April 2018 </time>
 My duties included development and providing support, bug fixes, and workarounds for customers.  During my time on the team, I helped with the transition from a domain specific C++ solution to a .NET MVC web application.  I was involved in every layer of the application’s stack and got experience with numerous programming languages, libraries, and paradigms.  Two times, my manager sent me to “That Conference”, a Microsoft-specific development conference.
