@@ -18,7 +18,7 @@
 - Java - 1 year
 - 5 years of experience using the Microsoft stack and 4 with web application development.
 - Experience with Docker and docker-compose, getting dependencies to build in Docker. Building Dockerfiles for open source projects to keep legacy code running.
-- Experience doing data engineering in Kafka with KSQL queries and connectors
+- Experience with data engineering using Kafka with KSQL queries and connectors and ETL pipelines
 - Extensive experience piping Bash and AWK commands together to analyze and reformat text and data
 - Agile development: test development, code reviews, rapid prototyping, scrum meetings.
 - Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab and BitBucket, and I use Github extensively.
