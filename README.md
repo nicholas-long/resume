@@ -40,7 +40,7 @@
 ## Work Experience
 
 ### Stay at home dad <time> October 2018 - Present </time>
-I was fortunate enough to be able to take time off from the workforce to help raise my two amazing children. I have had time to further my cybersecurity education with TryHackMe, HackTheBox, and Offensive Security Playgrounds.
+I was fortunate enough to be able to take a hiatus from professional work to become a full-time father, utilizing this period to advance in cybersecurity through TryHackMe, HackTheBox, and Offensive Security Playgrounds. I gained proficiency in Python and Bash scripting, applying these skills in personal data engineering projects. These endeavours have helped maintain the relevance of my skillset.
 
 ### Application System Analyst - Trane, La Crosse, WI <time> July 2014 - April 2018 </time>
 My duties included development and providing support, bug fixes, and workarounds for customers.  During my time on the team, I helped with the transition from a domain specific C++ solution to a .NET MVC web application.  I was involved in every layer of the application’s stack and got experience with numerous programming languages, libraries, and paradigms.  Two times, my manager sent me to “That Conference”, a Microsoft-specific development conference.
