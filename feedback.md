@@ -3,10 +3,14 @@
 
 ## todo items
 - [ ] Add specific project examples or achievements under each skill or language.
+  - i am worried this will create bloat
 - [x] Avoid over-explaining in the "Debugging and reverse engineering" point.
 - [ ] In "Achievements", provide context or impact for each achievement.
+  - i am worried this will create bloat
 - [ ] In "Work Experience", detail your responsibilities and achievements in bullet points.
-- [ ] In "Education", only include relevant coursework.
+  - my work experience is formatted as complete sentences right now
+- [x] In "Education", only include relevant coursework.
+  - rewrote these to summarize unimportant things
 - [x] Remove high school details unless necessary for the job.
 - [x] Remove "Foreign Languages" unless relevant to the job.
   - moved to one skill in a bullet point

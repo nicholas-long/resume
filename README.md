@@ -66,13 +66,10 @@ I worked in computer-related jobs including data entry, layout and design, and v
 
 ### University of Wisconsin – La Crosse
 
-- https://www.uwlax.edu/
-- Graduated December 2014 with Honors
-- Computer Science Major with a German Minor
-- Dean’s list (College of Science & Health) Fall 2010, Spring 2011, Spring 2012, Spring 2013
-- GPA: 3.74
-- Courses completed involving: Artificial Intelligence, Robotics, Software engineering, MVC web development, German Language
-- Awarded National Science Foundation S-STEM Scholarship for 2011/2012
+- [University of Wisconsin-La Crosse](https://www.uwlax.edu/), Computer Science (B.S., Honors) with a German Minor, GPA: 3.74, Dec 2014
+- Dean’s list: Fall 2010, Spring 2011, Spring 2012, Spring 2013
+- Courses: Artificial Intelligence, Robotics, Software Engineering, MVC Web Development, German Language
+- Recipient, National Science Foundation S-STEM Scholarship, 2011/2012
 
 ### International University in Germany
 
