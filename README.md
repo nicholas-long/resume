@@ -25,6 +25,7 @@
 - Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab and BitBucket, and I use Github extensively.
 - Expert in debugging and reverse engineering compiled programs for exploit creation. Proven track record in HackTheBox and crackmes.one challenges, with proficiency in IDA Pro, Ghidra, ROP, and bypassing Windows API anti-debugging calls.
 - Ongoing cybersecurity education in offensive penetration testing skill set
+- Proficient in German with basic knowledge of Spanish.
 
 ## Achievements
 
@@ -41,9 +42,11 @@
 ## Work Experience
 
 ### Stay at home dad <time> October 2018 - Present </time>
+
 I was fortunate enough to be able to take a hiatus from professional work to become a full-time father, utilizing this period to advance in cybersecurity through TryHackMe, HackTheBox, and Offensive Security Playgrounds. I gained proficiency in Python and Bash scripting, applying these skills in personal data engineering projects. These endeavours have helped maintain the relevance of my skillset.
 
 ### Application System Analyst - Trane, La Crosse, WI <time> July 2014 - April 2018 </time>
+
 My duties included development and providing support, bug fixes, and workarounds for customers.  During my time on the team, I helped with the transition from a domain specific C++ solution to a .NET MVC web application.  I was involved in every layer of the application’s stack and got experience with numerous programming languages, libraries, and paradigms.  Two times, my manager sent me to “That Conference”, a Microsoft-specific development conference.
 
 ### Software Development Intern - Trane, La Crosse, WI <time> July 2013 - June 2014 </time>
@@ -57,11 +60,6 @@ Responsible for preparing content, airing content, and FCC record-keeping requir
 ### Part-time Temporary Employment - Kelly Services, La Crosse, WI <time> January 2006 – June 2007 </time>
 
 I worked in computer-related jobs including data entry, layout and design, and video editing.
-
-## Foreign Languages
-
-- German (fluent from university minor and living abroad for two years)
-- Spanish (reading/writing, basic conversational skills)
 
 ## Education
 
@@ -77,11 +75,12 @@ I worked in computer-related jobs including data entry, layout and design, and v
 
 ### International University in Germany
 
-- Private University, now closed
-- https://web.archive.org/web/20220701043725/http://i-u.de/
-- Studied International Communications Management for two years until school closed
-- No degree received
-- Courses completed involving: Marketing and Advertising, Public Relations, MS Access, SQL and relational database design, Business - Process Management, German Language
+- Former private institution specializing in International Communications Management
+- [Archival Website](https://web.archive.org/web/20220701043725/http://i-u.de/)
+- Completed advanced coursework in SQL, relational database design, and Business-Process Management
+- Acquired knowledge in Marketing, Advertising, and Public Relations
+- Proficiency gained in German language
+- No degree obtained due to university closure
 
 ### Onalaska High School 2001-2005
 
