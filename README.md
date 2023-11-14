@@ -10,21 +10,22 @@
 
 - C and C++ - 5 years
 - C# - 5 years
-- Web Programming back end: C# MVC, Node.js, PHP - 4 years
-- Web Programming front end: Typescript, Javascript, AngularJS, jQuery, JSON, Bootstrap - 2 years
-- Bash and AWK Scripting - 2 years
+- Back-end web programming using C# MVC, Node.js, and PHP - 4 years
+- Front-end web programming with Typescript, Javascript, AngularJS, jQuery, JSON, and Bootstrap - 2 years
 - Python - 2 years
+- Bash and AWK Scripting - 2 years
 - Dockerfile - 1 year
 - Scala and functional programming - 1 year
 - Java - 1 year
 - 5 years of experience using the Microsoft stack and 4 with web application development.
 - Experience with Docker and docker-compose, getting dependencies to build in Docker. Building Dockerfiles for open source projects to keep legacy code running.
-- Experience with data engineering using Kafka with KSQL queries and connectors and ETL pipelines
-- Extensive experience piping Bash and AWK commands together to analyze and reformat text and data
-- Agile development: test development, code reviews, rapid prototyping, scrum meetings.
-- Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab and BitBucket, and I use Github extensively.
+- Proficient in data engineering utilizing Kafka, KSQL queries, connectors, and ETL pipelines.
+- In-depth knowledge of Bash and AWK for text and data analysis and reformatting.
+- Agile development expertise: test creation, code reviewing, rapid prototyping, scrum participation.
+- Skilled in Git workflows including branching, pull requests, and code reviews; Familiar with Gitlab, BitBucket, extensive use of Github.
+- Developed recurrent conversational assistant APIs using ChatGPT prompts with integrated working memory.
 - Expert in debugging and reverse engineering compiled programs for exploit creation. Proven track record in HackTheBox and crackmes.one challenges, with proficiency in IDA Pro, Ghidra, ROP, and bypassing Windows API anti-debugging calls.
-- Ongoing cybersecurity education in offensive penetration testing skill set
+- Ongoing cybersecurity education in offensive penetration testing skill set.
 - Proficient in German with basic knowledge of Spanish.
 
 ## Achievements
@@ -35,7 +36,7 @@
 - Cyber Apocalypse CTF 2021: placed 95 out of 4512 teams - solved all reversing and binary exploitation challenges including reverse engineering simulated ransomware to recover files
 - Reverse engineered BattlEye anti-cheat game protection
 - Created a passive and active wifi attack script with awk and aircap-ng
-- Developed a poker bot using neural networks and evolutionary algorithms.
+- Developed a poker bot using neural networks and evolutionary algorithms
 - Retrieved a list of all git repositories on Github from the rate-limited API
 - Created a search engine to look up billions of files by MD5 hash
 
