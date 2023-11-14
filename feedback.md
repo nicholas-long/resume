@@ -1,5 +1,5 @@
 # Feedback from chatGPT
-My thoughts are bullet points
+- link to my [resume](/README.md)
 
 # not going to do?
 1. In the "Experience and Programming Languages" section, order the languages and skills according to proficiency and relevance to the job you're applying for.
