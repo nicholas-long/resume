@@ -23,7 +23,7 @@
 - Extensive experience piping Bash and AWK commands together to analyze and reformat text and data
 - Agile development: test development, code reviews, rapid prototyping, scrum meetings.
 - Experience with Git and the branch, pull request, and code review workflow.  I have used Gitlab and BitBucket, and I use Github extensively.
-- Debugging and reverse engineering compiled programs in order to create exploits. I have extensive hobbyist experience with crackmes.one and HackTheBox challenges involving reverse engineering with IDA Pro and Ghidra. I am able to do return-oriented programming (ROP) and bypassing anti-debugging Windows API calls. I think this debugging experience can help debugging problems in compiled code.
+- Expert in debugging and reverse engineering compiled programs for exploit creation. Proven track record in HackTheBox and crackmes.one challenges, with proficiency in IDA Pro, Ghidra, ROP, and bypassing Windows API anti-debugging calls.
 - Ongoing cybersecurity education in offensive penetration testing skill set
 
 ## Achievements

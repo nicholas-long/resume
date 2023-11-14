@@ -3,7 +3,7 @@
 
 ## todo items
 - [ ] Add specific project examples or achievements under each skill or language.
-- [ ] Avoid over-explaining in the "Debugging and reverse engineering" point.
+- [x] Avoid over-explaining in the "Debugging and reverse engineering" point.
 - [ ] In "Achievements", provide context or impact for each achievement.
 - [ ] In "Work Experience", detail your responsibilities and achievements in bullet points.
 - [ ] In "Education", only include relevant coursework.
