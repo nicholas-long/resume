@@ -3,6 +3,7 @@
 
 <span class="name">Nicholas Long</span>
 <span class="info">https://github.com/nicholas-long</span>
+<span class="info">https://nicklong.xyz</span>
 
 
 ## Experience and Programming Languages
