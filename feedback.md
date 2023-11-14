@@ -1,10 +1,7 @@
 # Feedback from chatGPT
 - link to my [resume](/README.md)
 
-# not going to do?
-1. In the "Experience and Programming Languages" section, order the languages and skills according to proficiency and relevance to the job you're applying for.
-  - this is something i can do when uploading a resume to a specific place, but not for recruiting sites like ziprecruiter. i think the main order should be based on the importance of the language.
-
+## todo items
 - [ ] Add specific project examples or achievements under each skill or language.
 - [ ] Avoid over-explaining in the "Debugging and reverse engineering" point.
 - [ ] In "Achievements", provide context or impact for each achievement.
@@ -13,5 +10,9 @@
 - [ ] Remove high school details unless necessary for the job.
 - [ ] Remove "Foreign Languages" unless relevant to the job.
 - [x] For "Stay at home dad", highlight relevant skills developed during this time.
-- [x] Provide contact information at the top.
+
+## not going to do?
+- In the "Experience and Programming Languages" section, order the languages and skills according to proficiency and relevance to the job you're applying for.
+  - this is something i can do when uploading a resume to a specific place, but not for recruiting sites like ziprecruiter. i think the main order should be based on the importance of the language.
+- Provide contact information at the top.
   - i will do this when i send it in
