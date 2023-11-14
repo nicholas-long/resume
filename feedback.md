@@ -7,7 +7,7 @@
 - [ ] In "Achievements", provide context or impact for each achievement.
 - [ ] In "Work Experience", detail your responsibilities and achievements in bullet points.
 - [ ] In "Education", only include relevant coursework.
-- [ ] Remove high school details unless necessary for the job.
+- [x] Remove high school details unless necessary for the job.
 - [x] Remove "Foreign Languages" unless relevant to the job.
   - moved to one skill in a bullet point
 - [x] For "Stay at home dad", highlight relevant skills developed during this time.
