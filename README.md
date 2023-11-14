@@ -40,7 +40,7 @@
 - Retrieved a list of all git repositories on Github from the rate-limited API
 - Created a search engine to look up billions of files by MD5 hash
 
-## Work Experience
+## Professional Experience
 
 ### Stay at home dad <time> October 2018 - Present </time>
 
@@ -48,11 +48,11 @@ I was fortunate enough to be able to take a hiatus from professional work to bec
 
 ### Application System Analyst - Trane, La Crosse, WI <time> July 2014 - April 2018 </time>
 
-My duties included development and providing support, bug fixes, and workarounds for customers.  During my time on the team, I helped with the transition from a domain specific C++ solution to a .NET MVC web application.  I was involved in every layer of the application’s stack and got experience with numerous programming languages, libraries, and paradigms.  Two times, my manager sent me to “That Conference”, a Microsoft-specific development conference.
+Responsible for software development, customer support, bug resolution, and workaround implementation. Spearheaded the transition from domain-specific C++ to .NET MVC web application. Contributed to all application stack layers, gaining proficiency in diverse programming languages, libraries, and paradigms. Twice, my managers selected me to attended 'That Conference', a Microsoft-centric development conference.
 
 ### Software Development Intern - Trane, La Crosse, WI <time> July 2013 - June 2014 </time>
 
-My duties consisted of development, support issues, maintenance, and assisting with data fixes.  I created specialized software to automate several database related tasks, and I worked on projects to improve or replace several in-house software solutions.  This internship had a strong focus on .NET development, both Visual Basic and C#, and writing complex SQL queries.
+Interned as a software developer, focusing on .NET (VB & C#) and SQL. Handled support, maintenance, and data fixes. Automated database tasks with custom software and contributed to the improvement and replacement of in-house systems.
 
 ### Part-time Master Control Operator - Fox 25/48 (WLAX/WEUX), La Crosse, WI <time> October 2010 – September 2011 </time>
 
@@ -60,7 +60,7 @@ Responsible for preparing content, airing content, and FCC record-keeping requir
 
 ### Part-time Temporary Employment - Kelly Services, La Crosse, WI <time> January 2006 – June 2007 </time>
 
-I worked in computer-related jobs including data entry, layout and design, and video editing.
+Held various temporary roles involving computer tasks such as data entry, layout design, and video editing.
 
 ## Education
 
