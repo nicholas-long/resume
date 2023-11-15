@@ -2,8 +2,10 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 
 <span class="name">Nicholas Long</span>
-<span class="info">https://github.com/nicholas-long</span>
-<span class="info">https://nicklong.xyz</span>
+<span class="info">Github: https://github.com/nicholas-long</span>
+<span class="info">Blog: https://nicklong.xyz</span>
+<span class="info">Email: nicholas.eden.long@gmail.com</span>
+<span class="info">Located in La Crescent, MN 55947</span>
 
 
 ## Experience and Programming Languages
