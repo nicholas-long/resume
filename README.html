@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Experience and Programming Languages</title>
-        <style>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Experience and Technical Skills</title>
+            <style>
 /* From extension vscode.github */
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
@@ -11,12 +11,14 @@
  *--------------------------------------------------------------------------------------------*/
 
 .vscode-dark img[src$=\#gh-light-mode-only],
-.vscode-light img[src$=\#gh-dark-mode-only] {
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
 	display: none;
 }
 
 </style>
-        
+            
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
 <style>
@@ -37,51 +39,129 @@
     pointer-events: none;
 }
 </style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
         
-    </head>
-    <body class="vscode-body vscode-light">
-        <link rel="stylesheet" type="text/css" href="resume.css">
+        </head>
+        <body class="vscode-body vscode-light">
+            <link rel="stylesheet" type="text/css" href="resume.css">
 <p><span class="name">Nicholas Long</span>
 <span class="info">Github: <a href="https://github.com/nicholas-long">https://github.com/nicholas-long</a></span>
 <span class="info">Blog: <a href="https://nicklong.xyz">https://nicklong.xyz</a></span>
 <span class="info">Email: <a href="mailto:nicholas.eden.long@gmail.com">nicholas.eden.long@gmail.com</a></span>
 <span class="info">Located in La Crescent, MN 55947</span></p>
-<h2 id="experience-and-programming-languages">Experience and Programming Languages</h2>
+<h2 id="experience-and-technical-skills">Experience and Technical Skills</h2>
 <ul>
-<li>C and C++ - 5 years</li>
-<li>C# - 5 years</li>
-<li>Back-end web programming using C# MVC, Node.js, and PHP - 4 years</li>
-<li>Front-end web programming with Typescript, Javascript, AngularJS, jQuery, JSON, and Bootstrap - 2 years</li>
-<li>Python - 2 years</li>
-<li>Bash and AWK Scripting - 2 years</li>
-<li>Dockerfile - 1 year</li>
-<li>Scala and functional programming - 1 year</li>
-<li>Java - 1 year</li>
-<li>5 years of experience using the Microsoft stack and 4 with web application development.</li>
-<li>Experience with Docker and docker-compose, getting dependencies to build in Docker. Building Dockerfiles for open source projects to keep legacy code running.</li>
-<li>Proficient in data engineering utilizing Kafka, KSQL queries, connectors, and ETL pipelines.</li>
-<li>In-depth knowledge of Bash and AWK for text and data analysis and reformatting.</li>
-<li>Agile development expertise: test creation, code reviewing, rapid prototyping, scrum participation.</li>
-<li>Skilled in Git workflows including branching, pull requests, and code reviews; Familiar with Gitlab, BitBucket, extensive use of Github.</li>
-<li>Developed recurrent conversational assistant APIs using ChatGPT prompts with integrated working memory.</li>
-<li>Expert in debugging and reverse engineering compiled programs for exploit creation. Proven track record in HackTheBox and crackmes.one challenges, with proficiency in IDA Pro, Ghidra, ROP, and bypassing Windows API anti-debugging calls.</li>
-<li>Ongoing cybersecurity education in offensive penetration testing skill set.</li>
-<li>Proficient in German with basic knowledge of Spanish.</li>
-</ul>
-<h2 id="achievements">Achievements</h2>
-<ul>
-<li>eJPT Certified Penetration Tester (certification ID 2798399) <a href="https://elearnsecurity.com/verify-certificate/">https://elearnsecurity.com/verify-certificate/</a></li>
-<li>Pro hacker rank on HackTheBox. Solved &quot;insane&quot; level reverse engineering and binary exploitation challenges. Completed binary exploitation track. Received badges for echoland and vmcrack challenges. <a href="https://app.hackthebox.com/profile/459321">https://app.hackthebox.com/profile/459321</a></li>
-<li>I am a contributor to the popular Seclists cybersecurity repository. I created a list of target files for local file inclusion (LFI) checks, and this list automatically updates itself from debian packages using bash scripts and github actions integrations. <a href="https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt">SecLists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt at master · danielmiessler/SecLists · GitHub</a></li>
-<li>Cyber Apocalypse CTF 2021: placed 95 out of 4512 teams - solved all reversing and binary exploitation challenges including reverse engineering simulated ransomware to recover files</li>
-<li>Reverse engineered BattlEye anti-cheat game protection</li>
-<li>Created a passive and active wifi attack script with awk and aircap-ng</li>
-<li>Developed a poker bot using neural networks and evolutionary algorithms</li>
-<li>Retrieved a list of all git repositories on Github from the rate-limited API</li>
-<li>Created a search engine to look up billions of files by MD5 hash</li>
+<li><strong>Programming Languages</strong>: Proficient in Python (2 years), C# (5 years), C and C++ (5 years), TypeScript/JavaScript (4 years), Scala (1 year), Java (1 year), PHP (1 year). Experienced in functional programming and back-end web development with Node.js and TypeScript.</li>
+<li><strong>Front-End Development</strong>: Skilled in building responsive interfaces using AngularJS, Bootstrap, jQuery, and JSON.</li>
+<li><strong>DevOps and Deployment</strong>: Hands-on experience with Docker and Docker Compose (2 years), AWS (1 year), CI/CD pipelines, and deployment automation.</li>
+<li><strong>Data Engineering</strong>: Expert in Kafka, KSQL queries, connectors, and ETL pipelines. Proficient in working with large-scale compressed data sets using Bash, AWK, and JQ scripting.</li>
+<li><strong>AI and Machine Learning</strong>: Developed Expert Persona AI agents and conversational assistants using ChatGPT APIs with integrated working memory. Rapid prototyping with ChatGPT-based models.</li>
+<li><strong>Version Control</strong>: Skilled in Git workflows, including branching, pull requests, and code reviews. Extensive experience with GitHub, GitLab, and BitBucket. Proficient in resolving git CLI issues.</li>
+<li><strong>Cybersecurity</strong>: Advanced skills in debugging, reverse engineering compiled programs, and exploit creation using IDA Pro, Ghidra, and ROP. Proven expertise in bypassing Windows API anti-debugging mechanisms.</li>
+<li><strong>System Design</strong>: Implemented event-sourced design patterns for live updating integrations. Created a big-data search engine to index billions of files by MD5 hash.</li>
+<li><strong>Languages</strong>: Conversationally proficient in German and basic knowledge of Spanish.</li>
 </ul>
 <h2 id="professional-experience">Professional Experience</h2>
-<h3 id="stay-at-home-dad--october-2018---present-">Stay at home dad <time> October 2018 - Present </time></h3>
+<h3 id="full-stack-developer---fuzey-designs--february-2024---october-2024-">Full-stack developer - Fuzey Designs <time> February 2024 - October 2024 </time></h3>
+<p>Responsible for architecture design, back and front-end development, deployment, data engineering, and light front-end development.
+Architected and developed end-to-end solutions, integrating 3rd-party webhooks and deploying systems in AWS.
+Implemented data pipelines for live data synchronization, resulting in X% improvement in real-time accuracy.</p>
+<h3 id="career-development-sabbatical-and-stay-at-home-dad--october-2018---present-">Career Development Sabbatical and stay-at-home Dad <time> October 2018 - Present </time></h3>
 <p>I was fortunate enough to be able to take a hiatus from professional work to become a full-time father, utilizing this period to advance in cybersecurity through TryHackMe, HackTheBox, and Offensive Security Playgrounds. I gained proficiency in Python and Bash scripting, applying these skills in personal data engineering projects. These endeavours have helped maintain the relevance of my skillset.</p>
 <h3 id="application-system-analyst---trane-la-crosse-wi--july-2014---april-2018-">Application System Analyst - Trane, La Crosse, WI <time> July 2014 - April 2018 </time></h3>
 <p>Responsible for software development, customer support, bug resolution, and workaround implementation. Spearheaded the transition from domain-specific C++ to .NET MVC web application. Contributed to all application stack layers, gaining proficiency in diverse programming languages, libraries, and paradigms. Twice, my managers selected me to attended 'That Conference', a Microsoft-centric development conference.</p>
@@ -89,8 +169,14 @@
 <p>Interned as a software developer, focusing on .NET (VB &amp; C#) and SQL. Handled support, maintenance, and data fixes. Automated database tasks with custom software and contributed to the improvement and replacement of in-house systems.</p>
 <h3 id="part-time-master-control-operator---fox-2548-wlaxweux-la-crosse-wi--october-2010--september-2011-">Part-time Master Control Operator - Fox 25/48 (WLAX/WEUX), La Crosse, WI <time> October 2010 – September 2011 </time></h3>
 <p>Responsible for preparing content, airing content, and FCC record-keeping requirements.</p>
-<h3 id="part-time-temporary-employment---kelly-services-la-crosse-wi--january-2006--june-2007-">Part-time Temporary Employment - Kelly Services, La Crosse, WI <time> January 2006 – June 2007 </time></h3>
-<p>Held various temporary roles involving computer tasks such as data entry, layout design, and video editing.</p>
+<h2 id="cybersecurity-achievements">Cybersecurity Achievements</h2>
+<ul>
+<li><strong>eJPT Certified Penetration Tester</strong>: Certification ID 2798399 <a href="https://elearnsecurity.com/verify-certificate/">verify link</a>.</li>
+<li><strong>HackTheBox</strong>: Pro Hacker rank with completion of the binary exploitation track, including &quot;insane&quot; level challenges in reverse engineering and binary exploitation. Earned badges for Echoland and VMCrack challenges <a href="https://app.hackthebox.com/profile/459321">profile link</a>.</li>
+<li><strong>CTF Competitions</strong>: Ranked 95 out of 4512 teams in Cyber Apocalypse CTF 2021, solving all reversing and binary exploitation challenges, including reverse engineering simulated ransomware to recover files.</li>
+<li><strong>Seclists Contributor</strong>: Contributor to the widely-used cybersecurity repository.</li>
+<li><strong>Reverse Engineering</strong>: Reverse-engineered BattlEye anti-cheat protection for advanced game security analysis.</li>
+</ul>
 <h2 id="education">Education</h2>
 <h3 id="university-of-wisconsin--la-crosse">University of Wisconsin – La Crosse</h3>
 <ul>
@@ -101,15 +187,10 @@
 </ul>
 <h3 id="international-university-in-germany">International University in Germany</h3>
 <ul>
-<li>Former private institution specializing in International Communications Management</li>
-<li><a href="https://web.archive.org/web/20220701043725/http://i-u.de/">Archival Website</a></li>
-<li>Completed advanced coursework in SQL, relational database design, and Business-Process Management</li>
-<li>Acquired knowledge in Marketing, Advertising, and Public Relations</li>
-<li>Proficiency gained in German language</li>
-<li>No degree obtained due to university closure</li>
+<li>Former private institution specializing in International Communications Management. <a href="https://web.archive.org/web/20220701043725/http://i-u.de/">Archival Website</a></li>
 </ul>
 
-        
-        
-    </body>
-    </html>
+            
+            
+        </body>
+        </html>
