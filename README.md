@@ -24,7 +24,7 @@
 
 Responsible for architecture design, back and front-end development, deployment, data engineering, and light front-end development.
 Architected and developed end-to-end solutions, integrating 3rd-party webhooks and deploying systems in AWS.
-Implemented data pipelines for live data synchronization, resulting in X% improvement in real-time accuracy.
+Implemented data pipelines for live data synchronization.
 
 
 ### Career Development Sabbatical and stay-at-home Dad <time> October 2018 - Present </time>
