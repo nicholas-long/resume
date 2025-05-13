@@ -49,3 +49,40 @@ Interned as a software developer, focusing on .NET (VB & C#) and SQL. Handled su
 - Dean’s list: Fall 2010, Spring 2011, Spring 2012, Spring 2013
 - Courses: Artificial Intelligence, Robotics, Software Engineering, MVC Web Development, German Language
 - Recipient, National Science Foundation S-STEM Scholarship, 2011/2012
+
+## Relevant Projects
+
+### Filehash.io – Big Data File Hash Intelligence Search Engine
+Technologies: Python, Kafka, KSQL, Neo4j, Gzip, Bash, AWK
+
+Developed a search engine to trace the origin of files via MD5 hashes by indexing releases from APT repositories and popular GitHub projects. Designed for security researchers to map files to software versions. Built data pipelines using Kafka and KSQL, processed large datasets using Gzip, AWK, and Bash, and modeled relationships in Neo4j for efficient provenance queries.
+
+### Poker AI – Evolutionary Backprop Neural Net Poker Player
+Technologies: C++
+
+Built a competitive poker-playing AI using evolutionary strategies and neural networks with backpropagation. Successfully placed in low-stakes online tournaments. Focused on real-time decision-making under uncertainty and optimizing reward functions.
+
+### Static Vulnerability Discovery in Open Source Repos
+Technologies: Snyk CLI, Python, Bash
+
+Automated the scanning of thousands of open-source PHP and Python repositories using Snyk to identify security issues for responsible disclosure. Designed scripts for batch analysis, result aggregation, and report generation.
+
+### YouTube Text Scraper
+Technologies: ffmpeg, Tesseract, Python
+
+Created a system to extract on-screen text from YouTube videos by downloading content with ffmpeg and applying OCR using Tesseract. Used for content indexing and automated metadata extraction.
+
+### Wi-Fi Attack Robot
+Technologies: Bash, aircrack-ng, SQLite, Python
+
+Built an autonomous penetration testing toolchain to perform Wi-Fi reconnaissance and attack simulations. Combined bash automation, aircrack-ng utilities, and data logging with SQLite.
+
+### Expert Persona AI for Twitch Streamers
+Technologies: ChatGPT API, Python, Twitch API
+
+Developed a memory-enabled assistant trained on Twitch data to answer personalized queries like daily follower counts or subscriber activity. Enabled real-time interaction with streaming metrics using conversational AI.
+
+### APT Path Wordlist for SecLists
+Technologies: Python, Bash, APT packaging tools
+
+Engineered a tool to extract all unique file paths from APT packages for use in Local File Inclusion and Path Traversal fuzzing. Contributed the resulting wordlist to the SecLists project, now used widely in penetration testing.
