@@ -13,12 +13,12 @@
 
 - Responsible for architecture design, back and front-end development, deployment, data engineering, and light front-end development. Used Node.js Express and Python FastAPI to create website and Microservice APIs.
 - Containerized applications into Docker containers. Configured Docker Compose clusters using YAML.
-- Created custom build pipelines using Jenkins, iOS shortcuts, and Github Actions. Configured HTTP routing for Nginx and Caddy
+- Created custom build pipelines using Jenkins, iOS shortcuts, and Github Actions. Configured HTTP routing for Nginx and Caddy.
 - Deployed servers in EC2 and configured them using Linux terminal. Configured domain routing in AWS Route53. Stored objects in AWS S3.
 - Implemented data pipelines for live data synchronization with event streaming data using Kafka, KSQL, and Amazon MSK. Integrated with Twitch API and live webhooks to power event driven data service.
-- Implemented JWT token handling for user sessions. Got experience implementing custom Node.js Express Middleware
-- I was the expert in charge of designing and describing our Git workflow for the organization
-- Spearheaded transition to MongoDB, which led to immediate 90% reduction in query times. Implemented Mongo aggregations to handle N+1 problems optimally. 
+- Implemented JWT token handling for user sessions. Got experience implementing custom Node.js Express Middleware.
+- I was the expert in charge of designing and describing our Git workflow for the organization.
+- Spearheaded transition to MongoDB, which led to immediate 90 percent reduction in query times. Implemented Mongo aggregations to handle N+1 problems optimally.
 
 ### Freelance Security Researcher / Bug Bounty Hunter - HackerOne <time> December 2020 - January 2024 </time>
 
@@ -29,22 +29,22 @@
 
 ### Application System Analyst - Trane, La Crosse, WI <time> July 2014 - April 2018 </time>
 
-- Gained experience as a full stack developer for two years, touching back end, SQL database, MongoDB database, front end, and legacy code
+- Gained experience as a full stack developer for two years, touching back end, SQL database, MongoDB database, front end, and legacy code.
 - Part of team to update C++ legacy application to C# ASP.NET MVC website. Implemented front end solutions with JQuery and Angular.
-- I was a part of the project to switch the front end from Javascript to Typescript, which led to an immediate 90% reduction in runtime type errors.
-- Pushed for improved unit tests and integration tests in C#, leading to an improvement in bug identification and resolution time
+- I was a part of the project to switch the front end from Javascript to Typescript, which led to an immediate 80 percent reduction in runtime type errors.
+- Pushed for improved unit tests and integration tests in C#, leading to an improvement in bug identification and resolution time.
 - Received award for creating program to help coworkers' workflow by transpiling Fortran structures into C++ for interoperability with engineering teams in legacy codebases.
-- Maintained legacy C++ code with both MFC and STL C++ libraries. Experience doing low-level debugging C and C++ to find memory leaks, off by one errors, and memory corruption vulnerabilities in legacy code
-- worked on agile team, used Jira for issue tracking. I got experience deploying systems to Azure and AWS clouds
-- Created event-driven microservices using actor paradigm and Akka.NET. Developed service bus using RabbitMQ and AMQP
-- Created build configurations on Jenkins. Became a Git power user, implementing advanced features like "git bisect" into CI/CD pipelines
+- Maintained legacy C++ code with both MFC and STL C++ libraries. Experience doing low-level debugging C and C++ to find memory leaks, off by one errors, and memory corruption vulnerabilities in legacy code.
+- Worked on Agile team, used Jira for issue tracking. Became a Git power user, implementing advanced features like git bisect into CI/CD pipelines.
+- I got experience deploying systems to Azure and AWS clouds. Created build configurations on Jenkins.
+- Created event-driven microservices using actor paradigm and Akka.NET. Developed service bus using RabbitMQ and AMQP.
 - My managers selected me twice to attended 'That Conference', a Microsoft-centric development conference and give a presentation about the experience to coworkers.
-- I was in a rotation to provide second-level customer phone support, finding workarounds and entering issues
+- I was in a rotation to provide second-level customer phone support, finding workarounds and entering issues.
 
 ### Software Development Intern - Trane, La Crosse, WI <time> July 2013 - June 2014 </time>
 
 - Developed SQL queries and stored procedures for Oracle. worked with Oracle and MSSQL in a large production databases. Handled support, maintenance, and data fixes.
-- Maintained legacy VB.NET and C# applications
+- Maintained legacy VB.NET and C# applications.
 - Created, updated, and maintained internal tools in C#.
 - Configured installer packages for internal applications.
 
